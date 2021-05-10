@@ -5,9 +5,7 @@ GitHub là một công cụ cung cấp kho lưu trữ mã nguồn Git cho các d
 Repository (hay repo) là một đơn vị lưu trữ toàn bộ dữ liệu về  thông tin, hình ảnh, video, bảng biểu… và các thay đổi trong quá trình thực hiện dự án, cho phép người dùng lưu trữ thông tin dưới hai hình thức local repo hay remote repo.
 
 3. Fork repo (DATAcracy) nhằm mục đích gì? 
-Fork repo là tính năng cho phép người dùng sao chép hoàn toàn một repo đã được tạo trước đó, rồi thực hiện các thay đổi cần thiết, sau đó lưu phiên bản mới này dưới dạng một repository độc lập hoàn toàn mới, mọi thay đổi thực hiện trên phiên bản mới sẽ không ảnh hưởng đến phiên bản trước đó.
-
-Tính năng Fork repo DATAcracy hỗ trợ các học viên của dự án có thẻ truy cập và sử dụng các nguồn dữ liệu một cách tiện lợi và nhanh chóng.
+Fork repo là tính năng cho phép người dùng sao chép hoàn toàn một repo đã được tạo trước đó, rồi thực hiện các thay đổi cần thiết, sau đó lưu phiên bản mới này dưới dạng một repository độc lập hoàn toàn mới, mọi thay đổi thực hiện trên phiên bản mới sẽ không ảnh hưởng đến phiên bản trước đó. Tính năng Fork repo DATAcracy hỗ trợ các học viên của dự án có thẻ truy cập và sử dụng các nguồn dữ liệu một cách tiện lợi và nhanh chóng.
 
 4. Giải thích ý nghĩa của Branch, Commit mesage bạn thấy khi link Colab với Github?
 
