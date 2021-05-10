@@ -9,6 +9,6 @@ Fork repo là tính năng cho phép người dùng sao chép hoàn toàn một r
 
 4. Giải thích ý nghĩa của Branch, Commit mesage bạn thấy khi link Colab với Github?
 
-Branch: là một tính năng cho phép người dùng phân nhánh các nguồn dữ liệu trên cùng một repo, hỗ trợ việc chỉnh sửa,oàn thiện, cập nhật dữ liệu trên repo theo mỗi phần riêng biệt mà không ảnh hưởng đến nhau.
+- Branch: là một tính năng cho phép người dùng phân nhánh các nguồn dữ liệu trên cùng một repo, hỗ trợ việc chỉnh sửa,oàn thiện, cập nhật dữ liệu trên repo theo mỗi phần riêng biệt mà không ảnh hưởng đến nhau.
 
-Commit messge: là tin nhắn nhằm xác nhận sự thay đổi vừa được thực hiện, giúp người dùng quản lý các tác vụ và ghi nhận những thay đổi trong quá trình cập nhật dữ liệu.
+- Commit messge: là tin nhắn nhằm xác nhận sự thay đổi vừa được thực hiện, giúp người dùng quản lý các tác vụ và ghi nhận những thay đổi trong quá trình cập nhật dữ liệu.
